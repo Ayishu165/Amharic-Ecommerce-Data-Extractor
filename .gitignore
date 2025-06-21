@@ -1,1 +1,8 @@
 .venv
+data/
+photo/
+config.ini
+*.session
+data1/
+
+
